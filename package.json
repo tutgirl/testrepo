@@ -9,13 +9,12 @@
   "private": false,
   "scripts": {
     "start": "nodemon app.js"
-   
   },
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^4.10.0",
     "nodemon": "^2.0.20",
     "path": "^0.12.7"
-    
   },
   "engines": {
     "node": ">=14"
